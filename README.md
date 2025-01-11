@@ -174,6 +174,7 @@ From a DOS ready prompt, enter "DO BUILD631".  The parameters this
 	NOSTOP    - Keep on going without pause
 	            The default is to wait for a keypress at the
 	            beginning of each JCL file.
+	NL	  - No Listing on screen (except when _XR is specified)
 
 If you didn't supply the (ALL) parameter, you'll want to enter the
 command "DO BUILDLIB" to assemble the files that make up the SYS6, SYS7
